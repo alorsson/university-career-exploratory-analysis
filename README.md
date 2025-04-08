@@ -2,8 +2,7 @@
 [Final Report – BUS 314 Project](./BUS-314%20Final%20Project%20FINAL.pdf)
 
 
-**Course:** BUS 314 – Introduction to Data Science for Business  
-**Team Members:** Ashwin Suresh, Aidan Lorsson, Ford Webb, Fekry Mostafa
+**Course:** BUS 314 – Data Science for Business  
 
 ## Objectives
 This project explored the relationship between college majors, cost of attendance, and career salary outcomes to evaluate the ROI of higher education.
