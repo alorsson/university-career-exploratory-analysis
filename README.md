@@ -1,4 +1,5 @@
-# University & Career Exploratory Analysis
+# University Majors & Career Exploratory Analysis
+[Project Report (PDF)](./BUS-314_Final_Project.pdf)
 
 **Course:** BUS 314 – Introduction to Data Science for Business  
 **Team Members:** Ashwin Suresh, Aidan Lorsson, Ford Webb, Fekry Mostafa
